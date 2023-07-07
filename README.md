@@ -16,11 +16,11 @@ My name is Raphael, and I'm a 19-year-old biology student. However, development 
 
 ![databases](https://skillicons.dev/icons?i=sqlite,mongodb,mysql)
 
-🛠️・ Tools
+# 🛠️・ Tools
 
 ![tools](https://skillicons.dev/icons?i=idea,vscode,postman)
 
-📩・ Contact
+# 📩・ Contact
 
 [![contact_discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/627517636883906609)
 [![contact_twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Akira13345)
