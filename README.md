@@ -6,7 +6,7 @@ My name is Raphael, and I'm a 20-year-old maritime student. However, development
 
 # 💻・Programming Languages
 
-![programming](https://skillicons.dev/icons?i=js,html,css,bots)
+![programming](https://skillicons.dev/icons?i=js,html,css)
 
 # 🌐・ Technologies & Frameworks
 
