@@ -1,4 +1,3 @@
-
 # 👋・About me 
 
 
@@ -10,7 +9,8 @@ My name is Raphael, and I'm a 20-year-old maritime student. However, development
 
 # 🌐・ Technologies & Frameworks
 
-![technologies_frameworks](https://skillicons.dev/icons?i=adonis,react,nodejs,tailwind)
+![technologies_frameworks](https://skillicons.dev/icons?i=adonis,react,nodejs,tailwind,vite)
+![inertia (1)](https://github.com/user-attachments/assets/c2785cfa-72b4-4842-b3ee-ee8cea4041e3)
 
 # 📊・ Databases
 
