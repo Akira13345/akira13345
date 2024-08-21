@@ -14,7 +14,7 @@ My name is Raphael, and I'm a 20-year-old maritime student. However, development
 
 # 📊・ Databases
 
-![databases](https://skillicons.dev/icons?i=sqlite,mongodb,mysql)
+![databases](https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite)
 
 # 🛠️・ Tools
 
